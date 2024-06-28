@@ -1,7 +1,9 @@
 name: all_widgets
-description: "A new Flutter package project."
+description: This package is all in one package which contains mostly custom widget but letter on we will add more 
+  widget which you can directly use.
 version: 0.0.1
-homepage:
+homepage: https://github.com/flutter-vrinsoft/all_widgets
+repository: https://github.com/flutter-vrinsoft/all_widgets
 
 environment:
   sdk: '>=3.3.4 <4.0.0'
